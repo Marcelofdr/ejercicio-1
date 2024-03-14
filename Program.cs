@@ -3,7 +3,7 @@
 
 //Ya que no se puede dividir un número por cero, deberá controlar la división alertando al usuario.
 //No se podra usar función While, ni Switch. Tampoco se podra usar uso de otros metodos
-
+//hola mundo hola mundo
 
 double x;
 double divisor;
